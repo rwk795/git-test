@@ -1,1 +1,4 @@
-newcontent
+next line
+new line
+new line
+new rebase
