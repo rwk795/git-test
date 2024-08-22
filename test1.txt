@@ -5,3 +5,4 @@ new rebase
 new content
 new cont
 content
+test new force
