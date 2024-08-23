@@ -5,21 +5,3 @@ new rebase
 new content
 new cont
 content
-test new force
-1 commit
-2 commit
-3 commit
-4 commit
-5 commit
-6 commit
-1 dev
-2 dev
-3 dev
-
-
-new commit  new commit
-new commit 
-new commit 
-new commit2 
-
-
